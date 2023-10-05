@@ -1,12 +1,10 @@
 ---
 description: >-
   Using industry standards and principals, the KORE API endpoints return data
-  about subscriptionss, usage, and more.
+  about subscriptions, usage, and more.
 ---
 
-# Private KORE Developer Portal Overview
-
-
+# KORE Developer Portal Overview
 
 <figure><img src=".gitbook/assets/Capture001.png" alt=""><figcaption></figcaption></figure>
 
