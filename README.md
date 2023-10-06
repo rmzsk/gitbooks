@@ -2,6 +2,17 @@
 description: >-
   Using industry standards and principals, the KORE API endpoints return data
   about subscriptions, usage, and more.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # KORE Developer Portal Overview
